@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xzhong.github.io/</id>
+    <id>https://xzhong.github.io</id>
     <title>Gridea</title>
-    <updated>2021-09-10T20:29:26.734Z</updated>
+    <updated>2021-09-10T20:31:56.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xzhong.github.io/"/>
+    <link rel="alternate" href="https://xzhong.github.io"/>
     <link rel="self" href="https://xzhong.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xzhong.github.io/images/avatar.png</logo>
